@@ -59,8 +59,8 @@ body {
   }
   
   .container {
-    width: 90%;
-    /* max-width: 700px; */
+    /* width: 90%; */
+    max-width: 2000px;
   }
   
   .header-logo img {
